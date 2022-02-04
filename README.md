@@ -1,7 +1,7 @@
 ## Ola eu sou o @KlauzCode
 
 - 👋 Ola, Eu sou @KlauzCode
-- 🌱 Atualmente estou aprofundando em HTML, CSS, JS and REACT.JS 
+- 🌱 Atualmente estou estudando HTML, CSS, JS and REACT.JS 
 
 
 <div>
